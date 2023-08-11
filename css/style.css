@@ -4,12 +4,14 @@ main{
     width: 100%;
     align-items: center;
     justify-content: center;
+    background-color: #9ea1a3;
 }
 
 
 h1{
     display: block;
     font-family: 'Noto Sans JP', sans-serif;
+    color: aliceblue;
     font-size: 50px;
     font-weight: 300;
 }
