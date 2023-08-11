@@ -10,4 +10,5 @@ main{
 h1{
     display: block;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
 }
