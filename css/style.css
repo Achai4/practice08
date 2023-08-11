@@ -8,5 +8,6 @@ body{
 
 
 h1{
+    display: block;
     font-family: 'Courier New', Courier, monospace;
 }
